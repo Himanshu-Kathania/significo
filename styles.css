@@ -1,0 +1,24 @@
+body[theme='black']{
+    background-color: black;
+}
+
+
+body[theme='cyan']{
+    background-color: #80becc;
+}
+
+
+
+body[theme='salmon']{
+    background-color: salmon;
+}
+
+
+
+body[theme='white']{
+    background-color: #fff;
+}
+
+
+
+
