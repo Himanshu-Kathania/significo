@@ -1,5 +1,16 @@
+*::selection{
+    background-color: rgb(247, 136, 124);
+}
+
+
+body[theme='black'] .section{
+    color: #fff;
+    
+}
+
 body[theme='black']{
     background-color: black;
+    
 }
 
 
@@ -8,9 +19,20 @@ body[theme='cyan']{
 }
 
 
+body[theme='cyan'] .section{
+    color: #1f2f32;
+    
+}
+
+
 
 body[theme='salmon']{
     background-color: salmon;
+}
+
+body[theme='salmon'] .section{
+    color: rgb(83,37,33);
+    
 }
 
 
@@ -18,6 +40,15 @@ body[theme='salmon']{
 body[theme='white']{
     background-color: #fff;
 }
+
+
+
+body[theme='white'] .section{
+    color: zinc;
+    
+}
+
+
 
 
 
